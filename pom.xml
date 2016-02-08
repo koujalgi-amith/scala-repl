@@ -4,8 +4,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.razorthink.bigbrain</groupId>
-    <artifactId>sdk</artifactId>
+    <groupId>com.amithkoujalgi.scala</groupId>
+    <artifactId>scala-repl-embedded</artifactId>
     <packaging>jar</packaging>
     <version>1.0.0</version>
 
@@ -43,7 +43,7 @@
     </dependencies>
 
     <build>
-        <finalName>big-brain-sdk</finalName>
+        <finalName>scala-repl-embedded</finalName>
         <defaultGoal>install</defaultGoal>
         <sourceDirectory>src/main/scala</sourceDirectory>
         <testSourceDirectory>src/test/scala</testSourceDirectory>
@@ -195,7 +195,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.razorthink.bigbrain.Main</mainClass>
+                            <mainClass>com.amithkoujalgi.scala.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
