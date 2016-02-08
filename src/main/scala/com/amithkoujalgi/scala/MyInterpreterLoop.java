@@ -1,4 +1,4 @@
-package com.razorthink.bigbrain;
+package com.amithkoujalgi.scala;
 
 import scala.tools.nsc.interpreter.ILoop;
 import scala.tools.nsc.interpreter.InteractiveReader;
