@@ -195,7 +195,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.razorthink.bigbrain.SettingHelper</mainClass>
+                            <mainClass>com.razorthink.bigbrain.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
